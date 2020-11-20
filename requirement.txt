@@ -1,0 +1,5 @@
+python=3.5.6
+tensorflow=1.15
+keras=2.3.1
+tqdm=4.47.0
+pillow=5.2.0
